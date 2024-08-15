@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18dd2d5d-a87f-4031-bb51-6fac3f0aba70" name="Changes" comment="Completed Exercise 4: Queues and Dequeues">
+    <list default="true" id="18dd2d5d-a87f-4031-bb51-6fac3f0aba70" name="Changes" comment="Completed Exercise 5: Complex Collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Application.Exercise2.Main.executor": "Run",
     "Application.Exercise3.Main.executor": "Run",
     "Application.Exercise4.Main.executor": "Run",
+    "Application.Exercise5.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +63,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise5.Main">
+  <component name="RunManager" selected="Application.Exercise6.Main">
     <configuration name="Exercise2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise2.Main" />
       <module name="Homework05" />
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise1.Main" />
+    <configuration name="Exercise6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise6.Main" />
       <module name="Homework05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise1.*" />
+          <option name="PATTERN" value="Exercise6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise6.Main" />
         <item itemvalue="Application.Exercise5.Main" />
         <item itemvalue="Application.Exercise4.Main" />
         <item itemvalue="Application.Exercise3.Main" />
         <item itemvalue="Application.Exercise2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723725646900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed Exercise 5: Complex Collections">
+      <option name="closed" value="true" />
+      <created>1723730114055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723730114055</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +222,7 @@
     <MESSAGE value="Completed Exercise 2: Dive Deep into Sets" />
     <MESSAGE value="Completed Exercise 3: Map Out Your Learning" />
     <MESSAGE value="Completed Exercise 4: Queues and Dequeues" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Exercise 4: Queues and Dequeues" />
+    <MESSAGE value="Completed Exercise 5: Complex Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Exercise 5: Complex Collections" />
   </component>
 </project>
